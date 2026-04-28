@@ -158,10 +158,5 @@ In the design we can see 4 dots We were supposed to use the Arduino uno to progr
     <img src="Pasted image 20260428202148.png" alt="Problems we faced 10">
 </div>
 
-## MMS Simulation
-* [video shows the simulation of the MMS](https://www.youtube.com/watch?v=oT04eXyF9pI) 
-* [here is the code for the simulation, we used the flood FIll algorithm as it chose the nearest gate to the point](https://drive.google.com/drive/folders/1y7VLNPKYx210Qo7rCI_sKCkylsQyFgxI?pli=1)
-
-
 ## Cost
 * IR 1.5NIS X3 Photodiode 1.5NIS X3 Crystal 2 nis *1 Atmeaga328p 20nis X1 L293d 7nis LM324N 2NIS regulater 2nis X1 capesitor 2nis *4 MOTOR 80 *2 IC socet pins 4nis *4 Connecter PINs 2nis X1 Multiturn potientimeter 4nis X4 PCB bord 60nis Risestor .5nis X10 Iron III chloride 40nis X1 Total Cost 347nis.
